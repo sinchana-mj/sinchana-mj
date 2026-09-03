@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there,I'm Sinchana Mj
 ## 👩‍💻 About Me :<br><br>🎓 Engineering student passionate about technology and programming  <br>🌱 Currently learning Python and strengthening my programming fundamentals  <br>💻 Knowledge of HTML, CSS, Bootstrap, Flexbox and SQL  <br>🚀 Interested in Web Development and Software Development  <br>🛠️ Learning by building projects and solving coding problems  <br>🎯 Aspiring Software Developer
 
 
